@@ -1,0 +1,11 @@
+fastapi==0.115.12
+pydantic==2.11.4
+redis==6.0.0
+SQLAlchemy==2.0.40
+sqlmodel==0.0.24
+uvicorn[standard]
+psycopg2-binary
+alembic
+slowapi
+
+
